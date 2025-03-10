@@ -141,3 +141,5 @@ Kauan Lacerda E Silva - 202412124
 Renan Souza Borges - 202410864
 
 Enzo Nascimento Cabrera - 202320732
+
+João Vitor Mendes Da Silva 202411713
